@@ -22,7 +22,7 @@ This project demonstrates end-to-end ML skills across **data preprocessing, EDA,
 
 ---
 
-## 🛠️ Methodology & Steps
+## Methodology/Process
 1. **Data Preprocessing**
    - Handle missing values in `holiday` & weather columns  
    - Convert categorical features (`holiday`, `weather_main`, `weather_description`) into numerical (encoding)  
