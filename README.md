@@ -4,10 +4,11 @@
 To build a machine learning system that predicts **hourly traffic volume** on highways based on **weather conditions, time factors, and holiday effects**.  
 This project demonstrates end-to-end ML skills across **data preprocessing, EDA, feature engineering, regression modeling, time series forecasting, and model evaluation**.
 
+**The project is about comparing different forecasting models to see which one best predicts future traffic volumes, so that city/urban planners or traffic managers can use it for decision-making.**
 ---
 
 ## Dataset
-**Source:** [Metro Interstate Traffic Volume Dataset (Kaggle)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)  
+**Source:** [Metro Interstate Traffic Volume Dataset (UCI) 
 
 **Features (independent variables):**
 - `holiday` → Whether the day is a holiday or not  
