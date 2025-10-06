@@ -1,0 +1,2 @@
+Model,N_Features,Best_Params,Train_RMSE,Test_RMSE,Train_MAE,Test_MAE,Train_R2,Test_R2,Overfitting_Gap
+Random_Forest_Tuned,66,"{'max_depth': None, 'max_features': 0.5, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 478}",203.9091871457926,259.6074877093123,115.41500193867829,179.42665726382566,0.9893737849535121,0.9829406671262656,0.006433117827246537
