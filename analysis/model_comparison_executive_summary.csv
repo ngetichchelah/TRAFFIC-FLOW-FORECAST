@@ -1,0 +1,7 @@
+Model_Name,Model_Type,Test_R2,Test_RMSE,Test_MAE,Overfitting_Gap,Model_Complexity
+Random Forest (Tuned),Random_Forest,0.9829,259.6075,179.4267,0.0064,High
+"ARIMA(2,0,1)",Statistical,-0.0001,1987.7645,1739.3782,0.0,Low-Medium
+SARIMAX_Daily,Statistical,0.4157,1519.2977,1146.3124,0.0,Low-Medium
+SARIMAX_Exog,Statistical,0.4342,1495.1079,1120.9402,0.0,Low-Medium
+LSTM,Deep_Learning,0.9802,280.0179,208.0764,-0.0176,Very High
+GRU,Deep_Learning,0.9818,268.3382,196.25,-0.0176,Very High
