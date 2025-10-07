@@ -123,7 +123,6 @@ pip install -r requirements.txt
 
 ### ***Project Flow***
 
-```mermaid
 graph TD
     A[Dataset: Traffic Volume + Weather] --> B[Preprocessing & Feature Engineering]
     B --> C[Exploratory Data Analysis]
