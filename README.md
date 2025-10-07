@@ -121,7 +121,6 @@ pip install -r requirements.txt
 **Acknowledgments**
 - UCI for Metro Interstate Traffic Volume dataset
 
-```markdown
 ### 🚦 **Project Flow**
 
 ```mermaid
@@ -132,4 +131,5 @@ graph TD
     C --> E[Advanced Models: Random Forest, Gradient Boosting, Neural Nets, LSTM/GRU]
     E --> F[Model Evaluation & Comparison]
     F --> G[Insights & Project Conclusion]
+
 
