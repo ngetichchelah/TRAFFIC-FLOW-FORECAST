@@ -10,6 +10,9 @@ This project demonstrates **end-to-end ML workflow skills**: data preprocessing,
 ***Presentation:*** 
 https://preview--commuter-cognition.lovable.app/
 
+***Article***
+https://medium.com/@ngetichchelah/navigating-congestion-what-i-learned-predicting-urban-traffic-with-machine-learning-e3464b148c5d
+
 ---
 
 ### **Dataset**
