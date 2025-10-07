@@ -7,10 +7,12 @@ This project demonstrates **end-to-end ML workflow skills**: data preprocessing,
 
 **Purpose:** Compare different forecasting models to determine the best approach for urban planners or traffic managers to anticipate traffic conditions and make informed decisions.
 
-***Presentation:*** 
+**Presentation:** 
+
 https://preview--commuter-cognition.lovable.app/
 
-***Article***
+**Article**
+
 https://medium.com/@ngetichchelah/navigating-congestion-what-i-learned-predicting-urban-traffic-with-machine-learning-e3464b148c5d
 
 ---
