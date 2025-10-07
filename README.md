@@ -121,8 +121,10 @@ pip install -r requirements.txt
 **Acknowledgments**
 - UCI for Metro Interstate Traffic Volume dataset
 
-### ***Project Flow***
+```markdown
+### 🚦 **Project Flow**
 
+```mermaid
 graph TD
     A[Dataset: Traffic Volume + Weather] --> B[Preprocessing & Feature Engineering]
     B --> C[Exploratory Data Analysis]
@@ -131,4 +133,3 @@ graph TD
     E --> F[Model Evaluation & Comparison]
     F --> G[Insights & Project Conclusion]
 
-----
