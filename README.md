@@ -88,10 +88,8 @@ This project demonstrates **end-to-end ML workflow skills**: data preprocessing,
 - Feature engineering notebook  
 - Model comparison: baseline vs advanced models  
 - Trained models with performance metrics  
-- Optional interactive traffic prediction dashboard
 
 ---
-
 
 **Key Insights & Project Conclusions**
 1. Feature Engineering is Critical: Lag features, rolling statistics, and cyclical encoding often mattered more than model complexity.
